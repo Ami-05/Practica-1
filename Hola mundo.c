@@ -1,5 +1,5 @@
 //Practica 1 Hello World
-Cruz Apodaca Amiel Merari//
+//Cruz Apodaca Amiel Merari
 
 #include <stdio.h>
 
